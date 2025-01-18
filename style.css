@@ -135,8 +135,7 @@ li {
 .s3 {
     display: flex;
     flex-direction: column;
-    padding-top: 150px;
-    padding-bottom: 150px;
+    padding: 150px 300px;
     gap: 25px;
     background-color: #E5E7EB;
 }
